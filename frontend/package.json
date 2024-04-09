@@ -1,0 +1,13 @@
+{
+  "name": "js-mp4-to-webm-webcodecs-frontend",
+  "version": "1.0.0",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "npx browser-sync src --https true --port 3001 -w"
+  },
+  "author": "<kastor.code/> Matheus Ramalho de Oliveira",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^3.0.2"
+  }
+}

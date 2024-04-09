@@ -1,0 +1,16 @@
+{
+  "name": "js-mp4-to-webm-webcodecs-backend",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node --watch src/index.js"
+  },
+  "author": "<kastor.code/> Matheus Ramalho de Oliveira",
+  "license": "ISC",
+  "dependencies": {
+    "busboy": "^1.6.0",
+    "pino": "^8.15.1",
+    "pino-pretty": "^10.2.0"
+  },
+  "type": "module"
+}
